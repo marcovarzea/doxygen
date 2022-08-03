@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest improvements to F´
+about: Suggest improvements
 title: ''
 labels: enhancement
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 
 | | |
 |:---|:---|
-|**_F´ Version_**| |
+|**_Version_**| |
 |**_Affected Component_**|  |
 ---
 ## Feature Description
@@ -18,4 +18,4 @@ A quick description of the requested feature.
 
 ## Rationale
 
-A rationale for why the feature should be implemented in F´.
+A rationale for why the feature should be implemented´.

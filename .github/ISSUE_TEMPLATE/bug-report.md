@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a problem using F´
+about: Report a problem
 title: ''
 labels: bug
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 | | |
 |:---|:---|
-|**_F´ Version_**| |
+|**_Version_**| |
 |**_Affected Component_**|   |
 ---
 ## Problem Description
