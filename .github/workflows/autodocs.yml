@@ -9,7 +9,7 @@ jobs:
     name: Autodocumentation
     runs-on: ubuntu-latest
     steps:
-    - name: "Checkout F´ Repository"
+    - name: "Checkout Repository"
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
