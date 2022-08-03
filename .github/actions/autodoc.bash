@@ -6,8 +6,8 @@ set -x
 
 cd "$GITHUB_WORKSPACE"
 REMOTE="${1:-origin}"
-git config --local user.email "nasa-fprime[bot]@users.noreply.github.com"
-git config --local user.name "nasa-fprime[bot]"
+git config --local user.email "marcovarzea@users.noreply.github.com"
+git config --local user.name "marcovarzea"
 git fetch "${REMOTE}" release/documentation
 git fetch "${REMOTE}" devel
 git checkout release/documentation
