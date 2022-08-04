@@ -1,5 +1,7 @@
 title: "F´"
 description: "Flight Software & Embedded Systems Framework"
 remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/img/logo.png
+show_downloads: true
 plugins:
 - jekyll-remote-theme # 
